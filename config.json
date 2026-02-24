@@ -1,0 +1,11 @@
+{
+  "title": "HQ Flip Cards",
+  "background": "images/background.png",
+  "cardW": 220,
+  "radius": 18,
+  "cards": [
+    { "front": "images/front1.png", "back": "images/front2.png", "label": "Carta 1" },
+    { "front": "images/comingsoon.png", "back": "images/comingsoon.png", "label": "Carta 2" },
+    { "front": "images/comingsoon.png", "back": "images/comingsoon.png", "label": "Carta 3" }
+  ]
+}
